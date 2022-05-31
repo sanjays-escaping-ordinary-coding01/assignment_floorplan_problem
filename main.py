@@ -6,7 +6,7 @@ __status__ = complete
 
 __purpose__ = 
 command line tool that process floor plan in text file and extract the following information: 
-- Number of different chair types for the apartment
+- Number of different chair types for the floor plan
 - Number of different chair types per room
 
 __output__ =
