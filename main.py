@@ -1,8 +1,6 @@
 #!/usr/bin/env python3.9.4
 
 '''
-__author__ = Sanjay Seetharam
-__email__ = sanjayseetharam.hma@gmail.com
 __version__ = 2.0
 __status__ = complete
 
